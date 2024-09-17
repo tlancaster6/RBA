@@ -7,7 +7,7 @@ project of the Streelman and McGrath Labs at Georgia Tech. In this project, we n
 *Pseudotrophus demasoni* (a species of cichlid fish) soon after they had performed a courtship behavior. This posed a 
 challenge, because the behavior was rare and unpredictable. This motivated us to develop a low-cost automated system 
 that uses computer-vision to detect courtship behavior in real-time and notifies researchers via email, the code 
-for which is found in this repository. While we developed this code primarily for internal use, it may serve as a 
+for which is found in this repository. While we originally developed this code for internal use, it may serve as a 
 useful resource for others seeking to develop similar real-time behavior detection systems. 
 
 ## Conceptual Overview
