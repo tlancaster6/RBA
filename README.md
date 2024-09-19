@@ -1,4 +1,4 @@
-# InternetOfFish2.0
+# Real-time Behavior Analysis (RBA)
 
 ## Motivation
 Understanding the biological mechanisms that lead to complex behavior is a core goal of neuroscience. When studying this
