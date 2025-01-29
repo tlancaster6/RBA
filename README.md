@@ -1,4 +1,7 @@
-# Real-time Behavior Analysis (RBA)
+
+# A Scalable System for Real-Time Behavior Analysis (SARTAB)
+Original Title: Real-time Behavior Analysis (RBA)
+Publication: https://www.frontiersin.org/journals/behavioral-neuroscience/articles/10.3389/fnbeh.2024.1509369/full
 
 ## Motivation
 Understanding the biological mechanisms that lead to complex behavior is a core goal of neuroscience. When studying this
